@@ -1,0 +1,35 @@
+#bio{
+    font-size:35;
+    text-align:center;
+     padding: 50px;
+    background-image: linear-gradient(Teal,Lightgreen);
+}
+.menu{
+    list-style: none;
+    font-family: monospace;
+    float: right;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    postition: absolute;
+}
+.links{
+    float:left;
+    color: blueviolet;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border: 2px monospace;
+}
+.links:hover{
+    background-image: repeating-linear-gradient(Teal,purple,lightgreen)
+        font-size: 25px;
+    text-decoration: underline;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+
