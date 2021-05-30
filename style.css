@@ -1,9 +1,40 @@
+#welcome{
+    font-size:35;
+    text-align:center;
+     padding: 50px;
+    background-image: linear-gradient(Teal,Lightgreen);
+}
+
+
 #bio{
     font-size:35;
     text-align:center;
      padding: 50px;
     background-image: linear-gradient(Teal,Lightgreen);
 }
+
+#Favoriteplayer{
+    font-size:35;
+    text-align:center;
+     padding: 50px;
+    background-image: linear-gradient(Teal,Lightgreen);
+}
+
+#inspiration{
+    font-size:35;
+    text-align:center;
+     padding: 50px;
+    background-image: linear-gradient(Teal,Lightgreen);
+}
+
+
+
+
+
+
+
+
+
 .menu{
     list-style: none;
     font-family: monospace;
