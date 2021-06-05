@@ -27,6 +27,15 @@
     background-image: linear-gradient(Teal,Lightgreen);
 }
 
+#Contact{
+    font-size:35;
+    text-align:center;
+     padding: 50px;
+    background-image: linear-gradient(Teal,Lightgreen);
+}
+
+
+
 
 
 
@@ -62,5 +71,8 @@
     color: aliceblue;
     font-family: monospace;
 }
+
+
+
 
 
